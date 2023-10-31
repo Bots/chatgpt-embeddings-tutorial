@@ -8,8 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "chunk": "tsx src/scripts/chunk.ts",
-    "embed": "tsx src/scripts/embed.ts"
+    "chunk": "tsx src/scripts/chunk.ts"
   },
   "dependencies": {
     "eventsource-parser": "^1.1.1",
